@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sameerna
+- 👋 Hi, I’m @Sameerna Joshi
 - 👀 I’m interested in Machine Leaning
 - 🌱 I’m currently learning Machine leaning with mobile apps 
 - 💞️ I’m looking to collaborate on models to deploy on mobile apps 
